@@ -1,10 +1,9 @@
 /*
   This code is develop as part of course project in NITK - IT Department
   Authors :- 
-    Anuj kumar, ()
-    Shashank S R, (shashanksheshan@gmail.com)
-    Shashi Roshan ()
-
+    Anuj kumar, 
+    Shashank S R, 
+    Shashi Roshan 
   NOTE: This program uses modified lr-wpan model of ns3. Pls see readme for instructions.
 */
 
