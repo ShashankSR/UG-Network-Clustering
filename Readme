@@ -1,3 +1,10 @@
-Copy the contents to ns3 directory
-run the program provided in scratch
-This is a still work in progress 
+
+A c language implementation of Low Energy Adaptive Clustering Hierarchy (LEACH) algorithm used in networking
+
+To run :
+
+- Copy the contents to ns3 directory
+- run the program provided in scratch
+- This is a still work in progress 
+
+
